@@ -1,4 +1,3 @@
-### Hi there 👋
 - :tea: Bana çay koy çay
 - 😄 Pronouns: Sigma
 <!--
