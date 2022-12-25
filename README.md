@@ -1,5 +1,4 @@
-- :tea: Bana çay koy çay
-- 😄 Pronouns: Sigma
+:tea: Bana çay koy çay
 <!--
 **Berkay-Sari/Berkay-Sari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
